@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+/* Paso 02 */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/* 
+Paso 03  npm install --save hammerjs
+*/
